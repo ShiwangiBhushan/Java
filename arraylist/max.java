@@ -28,7 +28,7 @@ public class arraylist {
                 MAX = list.get(i);
             }
         }
-        //System.out.println("max element = " + MAX);
+        //System.out.println("max element = " + max);
 
         
     }
