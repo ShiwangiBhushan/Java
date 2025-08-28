@@ -26,6 +26,7 @@ public class arraylist {
         int MAX = Integer.MIN_VALUE;
         for (int i =0; i<list.size(); i++) {
             if(MAX < list.get(i)) {
+                
                 MAX = list.get(i);
             }
         }
