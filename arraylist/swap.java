@@ -16,7 +16,7 @@ public class swap {
         list.set(idx1, list.get(idx2));
         
         list.set(idx2,temp);
-        System.out.print("hey");
+        
     }
 
     
