@@ -4,6 +4,7 @@ public class formulas {
         1&1 = 1
         0|0 = 0
         0^1 = 1 
+        1-1
 
         for even/odd
         bitmask = 1
